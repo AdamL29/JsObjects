@@ -1,5 +1,5 @@
 let company ={
-    companyName: `DasNice`,
+    Name: `DasNice`,
     yearRevenue: 12000000,
     ceo: `Adam`,
     numberEmployees: 50
