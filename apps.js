@@ -10,6 +10,8 @@ if (company[`yearRevenue`] >= 1000000) {
     //console.log(company[`name`])
     //console.log(company[`ceo`])
     //console.log(company[`numberEmployees`])
+    // console.log(`Congratulations ${company["name"]}  
+    // ${company["ceo"]} ${company["numberEmployees"]});
     console.log("Congratulations", company["name"], 
     company[`ceo`], company[`numberEmployees`]);    
 } else{
