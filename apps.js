@@ -57,6 +57,6 @@ while (counter < company[`managers`].length) {
 for (let counter = 0; counter < company[`managers`].length; counter++){
     console.log(company[`managers`][counter][`name`]);
     console.log(company[`managers`][counter][`salary`]);
-}   if (company[`managers`][counter][`isSenior`] === true) {
+    if (company[`managers`][counter][`isSenior`] === true)
     console.log(`You won the manager game.`);
 }
